@@ -18,19 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Mechatronics Engineer
+  title = "Mechatronics Engineer"
   company = "Rokae Robotics"
   company_url = "https://www.rokae.com/"
   location = "Beijing"
   date_start = "2020-04-20"
   date_end = ""
   description = """Leading the products development in collaborative robots field."""
-  Responsibilities include:
+#  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+#  * Analysing
+#  * Modelling
+#  * Deploying
+#  """
 
 [[experience]]
   title = "Post Doc Researcher"
