@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "2014 RoboCup SmallSizeLeague Championship"
   url = ""
   certificate_url = "http://www.robocup2014.org/?page_id=3385"
-  date_start = "2014-07"
+  date_start = "2014-07-23"
   date_end = ""
   description = "ZJUNLICT, Zhejiang University"
 
