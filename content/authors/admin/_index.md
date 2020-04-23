@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:renzeyu@rokae.org'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:renzeyu@rokae.com'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
