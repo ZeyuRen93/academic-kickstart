@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:renzeyu@rokae.com"  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:renzeyu@rokae.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCE77Msclo0X8TGI7-Ehw_Nw?view_as=subscriber
