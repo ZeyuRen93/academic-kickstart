@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Robotics
     institution: Italian Insitute of Technology (IIT)
-    year: 2015-2019
+    year: 2019
   - course: MEng in Mechatronics Engineering
     institution: Zhejiang University
-    year: 2011-2015
+    year: 2015
 
 
 # Social/Academic Networking
@@ -42,10 +42,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:renzeyu@rokae.com  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: "mailto:renzeyu@rokae.com"  # For a direct email link, use "mailto:test@example.org".
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCE77Msclo0X8TGI7-Ehw_Nw?view_as=subscriber
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?user=-covmygAAAAJ&hl=en
@@ -54,9 +54,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: CV_Zeyu_4_23_EN.pdf
+ - icon: cv
+   icon_pack: ai
+   link: static/CV_Zeyu_4_23_EN.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
