@@ -25,12 +25,12 @@ date_format = "Jan 2006"
   date_start = "2020-04-20"
   date_end = ""
   description = """Leading the products development in collaborative robots field."""
-#  Responsibilities include:
+  Responsibilities include:
   
-#  * Analysing
-#  * Modelling
-#  * Deploying
-#  """
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 [[experience]]
   title = "Post Doc Researcher"
