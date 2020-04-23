@@ -23,7 +23,7 @@ bio: My research interests include under-actuated hands, tendon-driven mechanism
 interests:
 - Under Actuated Hands
 - Tendon Driven Mechanism
-- Articulated Actuators
+- Actuators
 
 education:
   courses:
@@ -40,13 +40,14 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?user=-covmygAAAAJ&hl=en
+  
+- icon: envelope
+  icon_pack: fas
+  link: "#contact"  # For a direct email link, use "mailto:test@example.org".
   
 - icon: youtube
   icon_pack: fab
@@ -74,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zeyu Ren is a Mechatronics Engineer in the Research Center at Rokae Robotics. His research interests include under-actuated hands, tendon-driven mechanism and actuators. He received his Ph.D degree in Robotics from Italian Institute of Technology under the supervision of Dr. Nikos G. Tsagarakis in 2019. His bachelor degree was obtained in Mechatronics Engineering from Zhejiang University in 2015.
