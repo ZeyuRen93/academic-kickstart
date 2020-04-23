@@ -15,27 +15,25 @@ role: Mechatronics Engineer in Robotics
 # Organizations/Affiliations
 organizations:
 - name: Rokae Robotics
-  url: "Beijing, China"
+  url: "https://www.rokae.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include under-actuated hands, tendon-driven mechanism, actuators and mechatronis design.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Under Actuated Hands
+- Tendon Driven Mechanism
+- Articulated Actuators
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Robotics
+    institution: Italian Insitute of Technology (IIT)
+    year: 2015-2019
+  - course: MEng in Mechatronics Engineering
+    institution: Zhejiang University
+    year: 2011-2015
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
