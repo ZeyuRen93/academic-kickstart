@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "RoboCup"
+  organization_url = "https://www.robocup.org/"
+  title = "2014 RoboCup SmallSizeLeague Championship"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "http://www.robocup2014.org/?page_id=3385"
+  date_start = "2014-07"
   date_end = ""
-  description = ""
+  description = "ZJUNLICT, Zhejiang University"
 
 [[item]]
   organization = "edX"
