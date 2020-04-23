@@ -43,15 +43,19 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: "mailto:renzeyu@rokae.com"  # For a direct email link, use "mailto:test@example.org".
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCE77Msclo0X8TGI7-Ehw_Nw?view_as=subscriber
+
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?user=-covmygAAAAJ&hl=en
+  
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCE77Msclo0X8TGI7-Ehw_Nw?view_as=subscriber
+  
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Zeyu_Ren3
+  
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
