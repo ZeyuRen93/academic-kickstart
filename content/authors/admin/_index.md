@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Zeyu Ren is a Mechatronics Engineer in the Research Center at Rokae Robotics. His research interests include under-actuated hands, tendon-driven mechanism and actuators. He received his Ph.D degree in Robotics from Italian Institute of Technology under the supervision of Dr. Nikos G. Tsagarakis in 2019. His bachelor degree was obtained in Mechatronics Engineering from Zhejiang University in 2015.
+Zeyu Ren is currently a Mechatronics Engineer in the Research Center at Rokae Robotics. His research interests include under-actuated hands, tendon-driven mechanism and actuators. In 2019, he received his Ph.D degree in Robotics from Italian Institute of Technology under the supervision of Dr. Nikos G. Tsagarakis. His bachelor degree was obtained in Mechatronics Engineering from Zhejiang University in 2015.
