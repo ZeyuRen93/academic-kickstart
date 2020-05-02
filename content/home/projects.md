@@ -22,11 +22,23 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "CENTAURO"
+     name = "INAIL"
      tag = "*"
   
    [[content.filter_button]]
-     name = "Pholus"
+     name = "PHOLUS"
+     tag = "*"
+     
+   [[content.filter_button]]
+     name = "CENTAURO"
+     tag = "*"
+     
+   [[content.filter_button]]
+     name = "WALK-MAN"
+     tag = "*"
+  
+   [[content.filter_button]]
+     name = "RoboCup"
      tag = "*"
   
   # [[content.filter_button]]
