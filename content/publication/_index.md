@@ -1,4 +1,3 @@
-#featured = true
 ---
 title: "On the Efficient Control of Series-Parallel Compliant Articulated Robots"
 authors:
