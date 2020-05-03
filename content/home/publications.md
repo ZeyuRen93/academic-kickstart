@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "On the Efficient Control of Series-Parallel Compliant Articulated Robots"
-    category = "in IEEE International Conference on Robotics and Automation (ICRA)"
-    publication_type = "Conference"
-    author = "V. D. Amara, J. Malzahn, Z. Ren, W. Roozin, N. G. Tsagarakis"
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
     exclude_featured = false
   
 [design]
