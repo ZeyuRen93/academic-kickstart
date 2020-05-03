@@ -6,7 +6,7 @@ authors:
 - Z. Ren
 - W. Roozing
 - N. G. Tsagarakis
-date: "January,2020"
+date: "2020-01-15T00:00:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
