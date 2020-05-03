@@ -3,11 +3,11 @@ title: "On the Efficient Control of Series-Parallel Compliant Articulated Robots
 authors:
 - V. D. Amara
 - J. Malzahn
-- \textbf{Z. Ren}
+- Z. Ren
 - W. Roozing
 - N. G. Tsagarakis
 date: "January,2020"
-# doi: ""
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020"
