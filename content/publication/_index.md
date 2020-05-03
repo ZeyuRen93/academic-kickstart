@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "V.\,D.\,Amara, J.\,Malzahn, \textbf{Z.\,Ren}, W.\,Roozin, N.\,G.\,Tsagarakis, "On the Efficient Control of Series-Parallel Compliant  Articulated Robots", in IEEE International Conference on Robotics and Automation (ICRA), 2020."
   image: ""
 ---
