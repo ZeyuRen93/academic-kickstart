@@ -1,6 +1,6 @@
 ---
 title: CENTAURO
-summary: Developed HERI-II-C Hand for CENTAURO robot.
+summary: Developed HERI-II-C Hand for CENTAURO.
 tags:
 - CENTAURO
 date: "2018-10-27T00:00:00Z"
