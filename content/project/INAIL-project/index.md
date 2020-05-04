@@ -1,14 +1,14 @@
 ---
-title: INAIL Project
-summary:  Developed a high-integrated and under-actuated Hand (HERI II-H) for HyQ-Real Robot.
+title: INAIL-Teleopration
+summary:  Developed an end-effector (HERI II-H Hand) for HyQ-Real Robot.
 tags:
 - INAIL
 date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://advr.iit.it/projects/inail-scc/teleoperazione"
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: HyQ-Real robot equppied with HERI-II end-effector
   focal_point: Smart
 ---
