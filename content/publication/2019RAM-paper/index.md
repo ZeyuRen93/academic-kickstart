@@ -32,7 +32,7 @@ summary:  This paper presents the development of a disaster-response system that
 featured: true
 
 links:
-- name: IEEE Page
+- name: IEEE Explore
   url: https://ieeexplore.ieee.org/document/8879498
 - name: PDF
   url: https://arxiv.org/pdf/1909.08812.pdf 
