@@ -23,15 +23,16 @@ bio: My research interests include under-actuated hands, tendon-driven mechanism
 interests:
 - Under Actuated Hands
 - Tendon Driven Mechanism
-- Actuators
+- Series Elastic Actuators
+- Mechatronics Design
 
 education:
   courses:
   - course: PhD in Robotics
-    institution: Italian Insitute of Technology (IIT)
+    institution: Italian Insitute of Technology (IIT), Italy
     year: 2019
   - course: MEng in Mechatronics Engineering
-    institution: Zhejiang University
+    institution: Zhejiang University (ZJU), China
     year: 2015
 
 
@@ -75,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Zeyu Ren is currently a Mechatronics Engineer in the Research Center at Rokae Robotics. His research interests include under-actuated hands, tendon-driven mechanism and actuators. In 2019, he received his Ph.D degree in Robotics from Italian Institute of Technology under the supervision of Dr. Nikos G. Tsagarakis. His bachelor degree was obtained in Mechatronics Engineering from Zhejiang University in 2015.
+Zeyu Ren is currently a Mechatronics Engineer in the Research Center at Rokae Robotics, Beijing. His research interests include under-actuated hands, tendon-driven mechanism, series elastic actuators and mechatronics design. In 2019, he received his Ph.D degree in Robotics from Italian Institute of Technology under the supervision of Dr. Nikos G. Tsagarakis. His bachelor degree was obtained in Mechatronics Engineering from Zhejiang University in 2015.
