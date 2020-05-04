@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-- name: IEEE Page
+- name: IEEE Explore
   url: https://ieeexplore.ieee.org/document/8624960
 - name: PDF
   url: https://www.researchgate.net/publication/328430403_The_eLeg_A_Novel_Efficient_Leg_Prototype_Powered_by_Adjustable_Parallel_Compliant_Actuation_Principles 
