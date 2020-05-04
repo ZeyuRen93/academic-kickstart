@@ -1,6 +1,6 @@
 ---
 title: PHOLUS
-summary: Developed HERI-II-P Hands for PHOLUS robot
+summary: Developed HERI-II-P Hands for PHOLUS robot.
 tags:
 - PHOLUS
 date: "2019-07-27T00:00:00Z"
