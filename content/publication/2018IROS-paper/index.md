@@ -35,8 +35,8 @@ links:
   url: https://ieeexplore.ieee.org/document/8594507
 - name: PDF
   url: https://www.researchgate.net/publication/327574114_HERI_II_A_Robust_and_Flexible_Robotic_Hand_based_on_Modular_Finger_design_and_Under_Actuation_Principles_Errata
-- name： DEMO 
-  url: https://www.youtube.com/watch?v=1P1Z_It2Q5o&t=21s
+# - name： DEMO 
+#  url: https://www.youtube.com/watch?v=1P1Z_It2Q5o&t=21s
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
