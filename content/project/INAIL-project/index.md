@@ -1,6 +1,6 @@
 ---
 title: INAIL Project
-summary:  Italian Institute for Insurance against Workplace Injuries Project.
+summary:  Developed a high-integrated and under-actuated Hand (HERI II-H) for HyQ-Real Robot.
 tags:
 - INAIL
 date: "2020-01-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2020-01-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: HyQ-Real with Hand.jpg
   focal_point: Smart
 
 links:
