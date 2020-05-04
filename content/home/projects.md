@@ -22,28 +22,28 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "INAIL"
+     name = "ALL"
      tag = "*"
   
    [[content.filter_button]]
+     name = "INAIL"
+     tag = "INAIL"
+     
+   [[content.filter_button]]
      name = "PHOLUS"
-     tag = "*"
+     tag = "PHOLUS"
      
    [[content.filter_button]]
      name = "CENTAURO"
-     tag = "*"
-     
+     tag = "CENTAURO"
+  
    [[content.filter_button]]
      name = "WALK-MAN"
-     tag = "*"
+     tag = "WALK-MAN"
   
    [[content.filter_button]]
      name = "RoboCup"
-     tag = "*"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+     tag = "RoboCup"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
