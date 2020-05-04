@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2020-04-20"
   date_end = ""
-  description = """Leading the products development in industrial and collaborative robots field."""
+  description = """Leading products development in industrial and collaborative robots field."""
 #  Responsibilities include:
   
 #  * Analysing
@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "Genova"
   date_start = "2019-03-01"
   date_end = "2020-03-06"
-  description = """Developed end-effector (HERI-II-H) for HyQ-Real Robot in INAIL Project."""
+  description = """Developed HERI-II-H under-actuated hands for HyQ-Real robot in INAIL Project."""
   
 +++
