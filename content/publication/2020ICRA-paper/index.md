@@ -19,13 +19,13 @@ publishDate: "2020"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Robotics and Automation*
+publication: In *IEEE International Conference on Robotics and Automation (ICRA), 2020*
 publication_short: In *IEEE International Conference on Robotics and Automation (ICRA),2020*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Torque distribution in redundant robots that combine the potential of asymmetric series-parallel actuated branches and multi-articulation pose a non-trivial challenge. To address the problem, this work proposes a novel optimization based controller that can accommodate various quadratic criteria to perform the torque distribution among dissimilar series and parallel actuators in order to maximize the motion efficiency. Three candidate criteria are composed and their performances are compared during periodic squat motions with a 3 degree of freedom series-parallel compliant articulated leg prototype. It is first shown that by minimizing a criterion that takes into account the actuator hardware specifications such as torque constant and transmission ratio, the gravity-driven phases can be lengthened. Thereby, this particular criterion results in slightly better performance than when adopting a strategy that maximizes the torque allocation to the higher efficiency actuators. Furthermore, valuable insights such as that the efficacy of maximum utilization of the highly-efficient parallel actuation branches decreases progressively at high frequencies were observed.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This work proposes a novel optimization based controller that can accommodate various quadratic criteria to perform the torque distribution among dissimilar series and parallel actuators in order to maximize the motion efficiency.
 
 tags:
 - Source Themes
@@ -34,7 +34,7 @@ featured: true
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
