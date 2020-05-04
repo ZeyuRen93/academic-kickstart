@@ -90,7 +90,7 @@ address = {street = "Shangdi No.4 Street", city = "Roake Robotics", region = "Be
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.039343", longitude = "116.311355"}
+coordinates = {latitude = "40.039342", longitude = "116.311329"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
