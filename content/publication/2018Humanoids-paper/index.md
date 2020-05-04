@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2018*
-publication_short: In *IEEE-RAS International Conference on Humanoid Robots (Humanoids), 201*
+publication_short: In *IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2018*
 
 abstract: This paper presents the design and implementation details of an efficient robotic leg (eLeg) prototype in which series-elastic actuation is combined with adjustable parallel compliance to significantly improve its energy efficiency. The parallel actuation units are driven by secondary motors to adjust pretension of the parallel elasticity. Both monoarticulated and biarticulated actuation configurations can be employed and the leg was thus designed to permit rapid reconfiguration of its actuation units for the purpose of performing validation studies and energetic comparison of the different actuation configurations. We focus on the design procedure and implementation of the adjustable parallel actuation units, including elastic element selection, mechanism design, and force sensing capability. A design method for robots utilising the concept is presented and experimental data are provided, that demonstrate the effectiveness of both the actuation concepts and design procedure.
 
