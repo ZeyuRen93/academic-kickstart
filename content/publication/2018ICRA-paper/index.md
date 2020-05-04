@@ -4,7 +4,7 @@ authors:
 - W. Roozing
 - Z. Ren
 - N. G. Tsagarakis
-date: "2013-07-01T00:00:00Z"
+date: "2018-05-01T00:00:00Z"
 doi: "10.1109/ICRA.2018.8460493"
 
 # Schedule page publish date (NOT publication's date).
