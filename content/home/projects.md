@@ -25,29 +25,29 @@ subtitle = ""
      name = "ALL"
      tag = "*"
   
-   [[content.filter_button]]
-     name = "INAIL"
-     tag = "INAIL"
+  # [[content.filter_button]]
+  #   name = "INAIL"
+  #   tag = "INAIL"
      
-   [[content.filter_button]]
-     name = "PHOLUS"
-     tag = "PHOLUS"
+  # [[content.filter_button]]
+  #   name = "PHOLUS"
+  #   tag = "PHOLUS"
      
-   [[content.filter_button]]
-     name = "CENTAURO"
-     tag = "CENTAURO"
+  # [[content.filter_button]]
+  #   name = "CENTAURO"
+  #   tag = "CENTAURO"
   
-   [[content.filter_button]]
-     name = "WALK-MAN LEG"
-     tag = "WALK-MAN LEG"
+  # [[content.filter_button]]
+  #   name = "WALK-MAN LEG"
+  #   tag = "WALK-MAN LEG"
      
-   [[content.filter_button]]
-     name = "WALK-MAN HAND"
-     tag = "WALK-MAN HAND"
+  # [[content.filter_button]]
+  #   name = "WALK-MAN HAND"
+  #   tag = "WALK-MAN HAND"
   
-   [[content.filter_button]]
-     name = "RoboCup"
-     tag = "RoboCup"
+  # [[content.filter_button]]
+  #   name = "RoboCup"
+  #   tag = "RoboCup"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
