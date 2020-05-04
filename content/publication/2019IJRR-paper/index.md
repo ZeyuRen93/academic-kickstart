@@ -5,7 +5,7 @@ authors:
 - Z. Ren
 - N. G. Tsagarakis
 date: "2019-12-16T00:00:00"
-doi: ""
+doi: "https://doi.org/10.1177/0278364919893762"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-12-16T00:00:00"
@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
- - name: SAGE Page
+ - name: SAGE
    url: https://journals.sagepub.com/doi/full/10.1177/0278364919893762
  - name: PDF  
    url: https://journals.sagepub.com/doi/pdf/10.1177/0278364919893762
