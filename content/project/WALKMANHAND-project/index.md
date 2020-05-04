@@ -1,6 +1,6 @@
 ---
 title: WALK-MAN HAND
-summary: Developed HERI under-actuatued hand for verifying quasi dexteous and powerful grasping motion.
+summary: Developed HERI under-actuatued hand for verifying quasi dexteous and powerful grasping.
 tags:
 - WALK-MAN HAND
 date: "2017-02-27T00:00:00Z"
