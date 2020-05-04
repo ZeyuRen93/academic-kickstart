@@ -1,6 +1,6 @@
 ---
 title: RoboCup
-summary: Developed RoboCup small size soccer robots, participated as a member in Team ZJUNlict.
+summary: Developed small size soccer robots, participated RoboCup as a member in Team ZJUNlict.
 tags:
 - RoboCup
 date: "2014-07-27T00:00:00Z"
