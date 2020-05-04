@@ -2,7 +2,7 @@
 title: WALK-MAN LEG
 summary: Developed a 3-DoF Leg (eLeg) for verfifying energy efficiency and explosive motion.
 tags:
-- WALK-MAN
+- WALK-MAN LEG
 date: "2017-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
