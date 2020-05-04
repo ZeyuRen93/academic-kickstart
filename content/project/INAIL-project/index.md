@@ -1,6 +1,6 @@
 ---
-title: INAIL-Teleopration
-summary:  Developed an end-effector (HERI II-H Hand) for HyQ-Real Robot.
+title: INAIL
+summary:  Developed HERI II-H Hand for HyQ-Real Robot.
 tags:
 - INAIL
 date: "2020-01-27T00:00:00Z"
