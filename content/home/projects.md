@@ -23,7 +23,7 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "INAIL"
-     tag = "*"
+     tag = "INAIL"
   
    [[content.filter_button]]
      name = "PHOLUS"
