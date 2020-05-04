@@ -31,12 +31,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Federal Ministry of Education and Research of Germany"
   organization_url = "https://www.bmbf.de/"
-  title = "Ralf-Dahrendorf Preis"
+  title = "Ralf-Dahrendorf Prize"
   url = "https://www.nks-lebenswissenschaften.de/de/2312.php"
   certificate_url = "https://twitter.com/H2020_CENTAURO/status/1128597632136433664"
   date_start = "2019-05-15"
   date_end = ""
-  description = "Involved in the development of CENTAURO robot"
+  description = "Involved in the development project of CENTAURO robot"
   
 #[[item]]
 #  organization = "DataCamp"
