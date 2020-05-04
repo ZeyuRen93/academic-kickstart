@@ -38,8 +38,12 @@ subtitle = ""
      tag = "CENTAURO"
   
    [[content.filter_button]]
-     name = "WALK-MAN"
-     tag = "WALK-MAN"
+     name = "WALK-MAN LEG"
+     tag = "WALK-MAN LEG"
+     
+   [[content.filter_button]]
+     name = "WALK-MAN HAND"
+     tag = "WALK-MAN HAND"
   
    [[content.filter_button]]
      name = "RoboCup"
