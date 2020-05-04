@@ -1,6 +1,6 @@
 ---
 title: INAIL
-summary:  Developed an under-actuated hand (HERI II-H) for HyQ-Real.
+summary:  Developed HERI-II-H under-actuated hand for HyQ-Real robot.
 tags:
 - INAIL
 date: "2020-01-27T00:00:00Z"
