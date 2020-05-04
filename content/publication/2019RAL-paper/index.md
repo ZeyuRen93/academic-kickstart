@@ -35,7 +35,7 @@ tags:
 featured: true
 
 links:
-- name: IEEE Page
+- name: IEEE Explore
   url: https://ieeexplore.ieee.org/document/8630605
 - name: PDF
   url: https://www.researchgate.net/publication/330770024_CENTAURO_A_hybrid_locomotion_and_high_power_resilient_manipulation_platform 
