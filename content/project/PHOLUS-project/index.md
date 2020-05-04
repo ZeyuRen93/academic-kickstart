@@ -1,6 +1,6 @@
 ---
 title: PHOLUS
-summary: Developed under-actuated Hands (HERI-II-P) for PHOLUS.
+summary: Developed HERI-II-P under-actuated hands for PHOLUS robot.
 tags:
 - PHOLUS
 date: "2019-07-27T00:00:00Z"
