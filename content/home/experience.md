@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "Genova"
   date_start = "2019-03-01"
   date_end = "2020-03-06"
-  description = """Developed HERI-II-H under-actuated hands for HyQ-Real robot in INAIL Project."""
+  description = """Developed HERI-II-H under-actuated hands for HyQ-Real robot in INAIL project."""
   
 +++
