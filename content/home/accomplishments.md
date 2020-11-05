@@ -37,7 +37,17 @@ date_format = "Jan 2006"
   date_start = "2019-05-15"
   date_end = ""
   description = "Involved in the development project of CENTAURO robot"
-  
+ 
+ [[item]]
+  organization = "Zhong Guan Cun Science Park (Z-Park)"
+  organization_url = "http://zgcgw.beijing.gov.cn/"
+  title = "30 under 30"
+  url = "http://www.u30.net.cn/"
+  certificate_url = "http://news.sciencenet.cn/htmlnews/2020/9/445790.shtm"
+  date_start = "2020-10-19"
+  date_end = ""
+  description = "The winner of 30 under 30 of Z-Park in 2020"
+ 
 #[[item]]
 #  organization = "DataCamp"
 #  organization_url = "https://www.datacamp.com"
