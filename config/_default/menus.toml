@@ -41,11 +41,11 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
- name = "CV_en"
+ name = "CV_En"
  url = "CV_Zeyu_4_23_En.pdf"
  weight = 80
    
  [[main]]
- name = "CV_cn"
- url = "CV_Zeyu_4_21_CN.pdf"
+ name = "CV_Cn"
+ url = "CV_Zeyu_2020-11-05_CN.pdf"
  weight = 90
