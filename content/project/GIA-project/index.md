@@ -1,5 +1,5 @@
 ---
-title: Rokae Robotics
+title: Rokae GIA
 summary:  Developed General Integrated Actuator (GIA) for Cobots
 tags:
 - ROKAE
