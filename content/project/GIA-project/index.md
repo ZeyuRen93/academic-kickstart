@@ -9,7 +9,7 @@ date: "2020-11-05T00:00:00Z"
 # external_link: "https://advr.iit.it/projects/inail-scc/teleoperazione"
 
 image:
-  caption: HyQ-Real robot equppied with HERI-II end-effector
+  caption: Prototype of GIA1 & GIA3
   focal_point: Smart
 ---
 
