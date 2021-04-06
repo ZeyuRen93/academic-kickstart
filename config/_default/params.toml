@@ -86,11 +86,11 @@ phone = "+86 139 1280 4417"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "ROKAE Robotics", city = "Shangdi No.4 Street", region = "Beijing", postcode = "100085", country = "China", country_code = "CN"}
+address = {street = "ROKAE Robotics", city = "HaiQing Building, Tower A, 7th Floor", region = "Beijing", postcode = "100097", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.038342", longitude = "116.306029"}
+coordinates = {latitude = "39.944235", longitude = "116.276297"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
