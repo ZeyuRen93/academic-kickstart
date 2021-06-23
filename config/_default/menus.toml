@@ -42,10 +42,10 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
  name = "CV_En"
- url = "CV_Zeyu_2020-11-05_EN.pdf"
+ url = "CV_Zeyu_2021-06-23_EN.pdf"
  weight = 80
    
  [[main]]
  name = "CV_Cn"
- url = "CV_Zeyu_2020-11-05_CN.pdf"
+ url = "CV_Zeyu_2021-06-23_CN.pdf"
  weight = 90
