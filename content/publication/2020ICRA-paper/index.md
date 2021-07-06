@@ -34,7 +34,7 @@ featured: true
 links:
  - name: DEMO
    url: https://www.youtube.com/watch?v=Lf1I1ow2de0
- - name: LINK  
+ - name: RESEARCH-GATE  
    url: https://www.researchgate.net/publication/344610670_On_the_efficient_control_of_series-parallel_compliant_articulated_robots
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
