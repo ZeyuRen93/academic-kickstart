@@ -9,7 +9,7 @@ date: "2020-11-05T00:00:00Z"
 # external_link: "https://advr.iit.it/projects/inail-scc/teleoperazione"
 
 image:
-  caption: Prototype of GIA1 & GIA2 & GIA3 & GIA4
+  caption: Prototype of GIA1 & GIA2 & GIA3 & GIA4 & GIA5
   focal_point: Smart
 ---
 
