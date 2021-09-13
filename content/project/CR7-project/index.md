@@ -3,7 +3,7 @@ title: Rokae xMate CR7
 summary:  Developed Cobot xMate CR7 for Industrial Application
 tags:
 - ROKAE
-date: "2020-11-05T00:00:00Z"
+date: "2021-09-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://advr.iit.it/projects/inail-scc/teleoperazione"
