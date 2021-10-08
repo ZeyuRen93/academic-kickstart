@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Mechatronics Engineer in Robotics
+role: Senior Hardware Engineer in Robotics
 
 # Organizations/Affiliations
 organizations:
-- name: Rokae Robotics
-  url: "https://www.rokae.com/"
+- name: Xiaomi Inc.
+  url: "https://www.mi.com/global/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include under-actuated hands, tendon-driven mechanism, actuators and mechatronis design.
