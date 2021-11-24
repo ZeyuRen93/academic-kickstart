@@ -44,7 +44,7 @@ social:
 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.it/citations?user=-covmygAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=-covmygAAAAJ&hl=it
   
 - icon: envelope
   icon_pack: fas
