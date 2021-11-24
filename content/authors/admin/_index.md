@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Hardware Engineer in Robotics
+role: Senior Hardware Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,13 @@ organizations:
   url: "https://www.mi.com/global/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include under-actuated hands, tendon-driven mechanism, actuators and mechatronis design.
+bio: My research interests include collaborative robotic arms, under-actuated hands, tendon-driven mechanism and actuators.
 
 interests:
+- Collaborative Robotic arms
 - Under Actuated Hands
 - Tendon Driven Mechanism
 - Series Elastic Actuators
-- Mechatronics Design
 
 education:
   courses:
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Zeyu Ren is currently a Mechatronics Engineer in the R&D Center at Rokae Robotics, Beijing. His research interests include under-actuated hands, tendon-driven mechanism, series elastic actuators and mechatronics design. In 2019, he received his Ph.D degree in Robotics from Italian Institute of Technology under the supervision of Dr. Nikos G. Tsagarakis. His bachelor degree was obtained in Mechatronics Engineering from Zhejiang University in 2015.
+Zeyu Ren is currently a senior hardware engineer in the Robotics Lab at Xiaomi Inc., Beijing. His research interests include collaborative robotic arms, under-actuated hands, tendon-driven mechanism and actuators. In 2019, he received his Ph.D degree in Robotics from Italian Institute of Technology under the supervision of Dr. Nikos G. Tsagarakis. His bachelor degree was obtained in Mechatronics Engineering from Zhejiang University in 2015.
