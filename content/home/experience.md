@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2020-04-20"
   date_end = ""
-  description = """Leading products R&D in collaborative robotic arms."""
+  description = """Led products R&D for collaborative robotic arms."""
 #  Responsibilities include:
   
 #  * Analysing
