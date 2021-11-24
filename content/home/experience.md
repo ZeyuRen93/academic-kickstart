@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = "https://www.rokae.com/"
   location = "Beijing"
   date_start = "2020-04-20"
-  date_end = ""
+  date_end = "2021-09-16"
   description = """Led products R&D for collaborative robotic arms."""
 #  Responsibilities include:
   
