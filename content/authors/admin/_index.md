@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include collaborative robotic arms, under-actuated hands, tendon-driven mechanism and actuators.
 
 interests:
-- Collaborative Robotic arms
+- Collaborative Robotic Arms
 - Under Actuated Hands
 - Tendon Driven Mechanism
 - Series Elastic Actuators
