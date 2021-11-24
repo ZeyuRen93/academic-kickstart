@@ -17,6 +17,22 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior Hardware Engineer"
+  company = "Xiaomi Inc."
+  company_url = "https://www.mi.com/global/"
+  location = "Beijing"
+  date_start = "2021-09-23"
+  date_end = ""
+  description = """Leading products R&D in robotic arms."""
+#  Responsibilities include:
+  
+#  * Analysing
+#  * Modelling
+#  * Deploying
+#  """
+
 [[experience]]
   title = "Mechatronics Engineer"
   company = "Rokae Robotics"
@@ -24,7 +40,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2020-04-20"
   date_end = ""
-  description = """Leading products development in industrial and collaborative robots field."""
+  description = """Leading products R&D in collaborative robotic arms."""
 #  Responsibilities include:
   
 #  * Analysing
