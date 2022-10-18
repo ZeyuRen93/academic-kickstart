@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Hardware Engineer
+role: Senior R&D Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Zeyu Ren is currently a senior hardware engineer in the Robotics Lab at Xiaomi Inc., Beijing. His research interests include collaborative robotic arms, under-actuated hands, tendon-driven mechanism and actuators. In 2019, he received his Ph.D degree in Robotics from Italian Institute of Technology under the supervision of Dr. Nikos G. Tsagarakis. His bachelor degree was obtained in Mechatronics Engineering from Zhejiang University in 2015.
+Zeyu Ren is currently a senior R&D engineer at Xiaomi Robotics Lab, Beijing. His research interests include collaborative robotic arms, under-actuated hands, tendon-driven mechanism and actuators. In 2019, he received his Ph.D degree in Robotics from Italian Institute of Technology under the supervision of Dr. Nikos G. Tsagarakis. His bachelor degree was obtained in Mechatronics Engineering from Zhejiang University in 2015.
