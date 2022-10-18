@@ -1,6 +1,6 @@
 ---
 title: Rokae xMate CR7
-summary:  Developed Cobot xMate CR7 for Industrial Application
+summary:  Developed Cobot xMate CR7 for Industrial Application.
 tags:
 - ROKAE
 date: "2021-09-05T00:00:00Z"
