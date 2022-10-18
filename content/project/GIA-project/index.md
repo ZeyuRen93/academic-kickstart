@@ -1,6 +1,6 @@
 ---
 title: Rokae GIA
-summary:  Developed General Integrated Actuator (GIA) for Cobots
+summary:  Developed General Integrated Actuator (GIA) for Cobots.
 tags:
 - ROKAE
 date: "2020-11-05T00:00:00Z"
