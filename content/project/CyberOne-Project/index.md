@@ -1,6 +1,6 @@
 ---
 title: Xiao Mi CyberOne
-summary:  Developed Dual-arm and End-effector for CyberOne
+summary:  Developed Dual-arm and End-effector for CyberOne.
 tags:
 - Xiaomi
 date: "2022-08-28T00:00:00Z"
