@@ -40,10 +40,10 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
- name = "CV_EN"
- url = "CV_Zeyu_2022-11-03_En.pdf"
- weight = 80
+# [[main]]
+# name = "CV_EN"
+# url = "CV_Zeyu_2022-11-03_En.pdf"
+# weight = 80
    
  #[[main]]
  #name = "CV_CN"
