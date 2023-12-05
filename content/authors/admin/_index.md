@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior R&D Engineer
+role: Robotics Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Xiaomi Inc.
-  url: "https://www.mi.com/global/"
+- name: ByteDance Inc.
+  url: "https://www.bytedance.com/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include collaborative robotic arms, under-actuated hands, tendon-driven mechanism and actuators.
