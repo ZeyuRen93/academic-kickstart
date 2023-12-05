@@ -19,13 +19,28 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Robotics Researcher"
+  company = "ByteDance Inc."
+  company_url = "https://www.bytedance.com/en/"
+  location = "Beijing"
+  date_start = "2023-11-29"
+  date_end = ""
+  description = """Leading products R&D in robotic arms, hands and tactile sensors."""
+#  Responsibilities include:
+  
+#  * Analysing
+#  * Modelling
+#  * Deploying
+#  """
+
+[[experience]]
   title = "Senior R&D Engineer"
   company = "Xiaomi Inc."
   company_url = "https://www.mi.com/global/"
   location = "Beijing"
   date_start = "2021-09-23"
-  date_end = ""
-  description = """Leading products R&D in robotic arms."""
+  date_end = "2023-11-27"
+  description = """Led products R&D in humanoid robotic arms and hands."""
 #  Responsibilities include:
   
 #  * Analysing
