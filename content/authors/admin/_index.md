@@ -67,7 +67,7 @@ social:
 #   link: 'static/CV_Zeyu_4_23_EN.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "renzeyu@rokae.com"
+email: "zeyuren93@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
